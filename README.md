@@ -1,7 +1,7 @@
 ## Hello, my name is Ivyson Thauan. 👋
 - 📚 Currently Studying Python
 
-- 😻 Sou apaixonado por tecnologia e estou amando aprender a programar.
+- 😻 I'm passionate about technology and I'm loving learning to program.
           
 </div> 
 
