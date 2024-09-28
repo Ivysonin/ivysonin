@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, my name is Ivyson Thauan. 👋
+- 📚 Currently Studying Python
 
-<!--
-**Ivysonin/ivysonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😻 Sou apaixonado por tecnologia e estou amando aprender a programar.
+          
+</div> 
 
-Here are some ideas to get you started:
+<br><br>
+  
+<div>
+  <a href="https://www.instagram.com/ivyson_in/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Contact
+* ivysonthauan17@gmail.com
