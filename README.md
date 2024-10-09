@@ -1,23 +1,17 @@
-## Hello, my name is Ivyson Thauan. 👋
-- falar sobre mim
-- 📚 Currently Studying Python
-
-- Some of my skills:
-
-</div>
-  <div style="display: inline_block"><br>
-[![linkedln]()]
-    
-</div> 
+# 💫 About Me:
+Hello, my name is Ivyson Thauan. 👋<br><br>📚 Currently Studying Python 
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivysonin) 
 
-<br><br>
-  
-<div>
-  <a href="https://www.instagram.com/ivyson_in/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ivysonin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ivysonin&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ivysonin&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivysonin&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
- ## Contact
-* ivysonthauan17@gmail.com
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
