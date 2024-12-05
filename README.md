@@ -6,7 +6,7 @@
   <a href="https://github.com/ivysonin">
 
 # 💫 About Me:
-Hello, my name is Ivyson Thauan. 👋<br><br>📚 Currently Studying Python | JavaScript
+Hello, my name is Ivyson Thauan. 👋<br><br>📚 Currently Studying JavaScript
 
 
 ## 🌐 Socials:
