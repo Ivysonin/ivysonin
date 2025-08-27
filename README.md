@@ -5,7 +5,7 @@
 <div align="center">
 
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=%F0%9F%91%8B+Hello%2C+my+name+is+Ivyson)](https://git.io/typing-svg)
+Olá! Meu nome é Ivyson, tenho 16 anos e sou apaixonado por tecnologia e desenvolvimento de software.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivysonin) 
