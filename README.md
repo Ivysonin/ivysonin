@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-Olá! Meu nome é Ivyson, tenho 16 anos e sou natural de Pernambuco. Atualmente, estou cursando a Trilha TI Criativa Full-Stack do Porto Digital, em parceria com o SENAC e o Governo de Pernambuco.
+Olá! Meu nome é Ivyson, tenho 17 anos e sou natural de Pernambuco. Atualmente, estou cursando a Trilha TI Criativa Full-Stack do Porto Digital, em parceria com o SENAC e o Governo de Pernambuco.
 Sou um desenvolvedor em formação, com foco em aplicações back-end, automações e APIs. Tenho trabalhado principalmente com Python e Flask, utilizando PostgreSQL e SQLite como bancos de dados.
 
 ## 🌐 Socials:
